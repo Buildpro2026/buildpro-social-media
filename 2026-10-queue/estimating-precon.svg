@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#1a365d"/>
+  <rect x="60" y="80" width="960" height="1190" fill="#f7fafc" rx="12"/>
+  <text x="540" y="200" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#1a365d" text-anchor="middle">Preconstruction</text>
+  <text x="540" y="270" font-family="Arial, sans-serif" font-size="36" fill="#2d3748" text-anchor="middle">Where the project is decided</text>
+  <rect x="180" y="350" width="720" height="400" fill="#e2e8f0" stroke="#4a5568" stroke-width="2"/>
+  <text x="540" y="500" font-family="Arial, sans-serif" font-size="28" fill="#2d3748" text-anchor="middle">Quantity takeoff</text>
+  <text x="540" y="550" font-family="Arial, sans-serif" font-size="28" fill="#2d3748" text-anchor="middle">Risk assessment</text>
+  <text x="540" y="600" font-family="Arial, sans-serif" font-size="28" fill="#2d3748" text-anchor="middle">Number that holds in the field</text>
+  <text x="540" y="850" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1a365d" text-anchor="middle">Interviewed and reference-checked</text>
+  <text x="540" y="900" font-family="Arial, sans-serif" font-size="28" fill="#2d3748" text-anchor="middle">before the client sees a profile</text>
+  <text x="540" y="1050" font-family="Arial, sans-serif" font-size="24" fill="#4a5568" text-anchor="middle">BuildPro Recruiters</text>
+  <text x="540" y="1100" font-family="Arial, sans-serif" font-size="20" fill="#718096" text-anchor="middle">Senior-led executive search</text>
+</svg>
